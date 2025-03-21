@@ -1,2 +1,2 @@
 # Librux
-This web application is made for a school project, this project is about creating a service for schools to see what results students get in a year
+The Librux web app, developed as part of a school project, enables schools to monitor students' performance in both theoretical and practical exams like INF 02.
